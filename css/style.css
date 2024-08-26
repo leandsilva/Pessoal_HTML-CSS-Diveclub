@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+:root {
+    --fonte: 'Roboto', sans-serif;
+    --primeira-cor: #f1f1f1;
+    --segunda-cor: #151515;
+    --terceira-cor: #dfdfdf;
+    --quarta-cor: #2e98dd;
+    --quinta-cor: #a3b2c9;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("../img/background.jpg");
+    background-size: 100vw;
+    background-repeat: no-repeat;
+    font-family: var(--fonte);
+    color: var(--primeira-cor);
+}
+
+.logo {
+    width: 45px;
+    height: 45px;
+}
+
+.cabecalho {
+    display: flex;
+    width: 81.25rem;
+    height: 12rem;
+    justify-content: space-evenly;
+}
+
+.cabecalho a {
+    align-content: center;
+    text-decoration: none;
+    list-style: none;
+    color: var(--primeira-cor);
+    font-size: 1.2rem;
+    font-weight: 500;
+    padding-left: 5rem;
+}
+
+.hiden {
+    display: none;
+}
+
+.user {
+    display: flex;
+    position: relative;
+    left: 30rem;
+    justify-content: space-between;
+}
+
+#separador {
+    height: 20px;
+    border: 1px solid var(--quarta-cor);
+    position: absolute;
+    top: 85px;
+    left: 165px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    padding: 4.5rem;
+}
+
+main h1 {
+    font-size: 6rem;
+    padding-left: 20rem;
+    padding-top: 3rem;
+    font-weight: 600;
+}
+
+main h2 {
+    font-size: 6rem;
+    padding-left: 20rem;
+}
+
+hr {
+    width: 34.37rem;
+    margin: 2rem;
+    position: relative;
+    left: 10rem;
+}
+
+main p {
+    width: 520px;
+    font-weight: 400;
+    text-align: justify;
+    line-height: 2rem;
+    margin: 3rem 16rem;
+    font-size: 1.5rem;
+    color: var(--quinta-cor);
+}
+
+section {
+    margin-top: 5rem;
+    width: 100vw;
+    text-align: center;
+}
+
+section p {
+    width: 1500px;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: 400;
+    line-height: 2rem;
+    font-size: 1.5rem;
+    color: var(--quinta-cor);
+}
+
+.linha2 {
+    width: 160px;
+    margin: 2rem;
+    position: relative;
+    left: 1150px;
+    top: -60px;
+}
+
+section h2 {
+    font-size: 4rem;
+    font-weight: 500;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+}
+
+.imagem-card__medusa, .imagem-card__anemona, .imagem-card__jellyfish {
+    width: 25%;
+    border-radius: 2px;
+    box-shadow: 1px 1px 20px 2px #000000ad;
+}
+
+.imagem-card__medusa {
+    position: relative;
+}
+
+#medusa {
+    position: relative;
+    width: 30px;
+    left: 30px;
+    top: 100px;
+    border-bottom: 1px solid var(--quarta-cor);
+}
+
+.chamada {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: var(--quarta-cor);
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 18rem;
+    font-size: 1rem;
+}
+
+footer {
+    display: flex;
+    width: 100vw;
+    position: relative;
+}
+
+footer a {
+    color: var(--primeira-cor);
+    text-decoration: none;
+}
+
+footer ul {
+    width: 50%;
+    margin: 0 auto;
+    height: 5rem;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    list-style: none;
+    align-items: center;
+    padding-bottom: 2rem;
+}
+
+footer li {
+    justify-content: space-evenly;
+}
+
+#footer-separador {
+    height: 20px;
+    border: 1px solid var(--quarta-cor);
+}
