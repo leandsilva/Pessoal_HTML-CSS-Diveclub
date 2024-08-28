@@ -32,4 +32,4 @@
 - Fotografia Medusa: [Joel Filipe](https://stocksnap.io/author/37764)
 - Fotografia Jellyfish: [Ben Purkiss](https://unsplash.com/pt-br/@b_purkiss?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash")
 - Fotografia Anemone: [Paul Cowell](https://www.shutterstock.com/pt/g/paul+cowell)<br>
-As imagens foram editadas com Phothoshop CS na versão 2022, na tentativa de se aproximar com a harmonia presente no designer.
+As imagens foram editadas com Phothoshop CS na versão 2022, na tentativa de se aproximar com a harmonia presente no design.
