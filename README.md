@@ -4,7 +4,7 @@
 </p>
 <br>
 <h2>:mortar_board: Projeto de Estudo</h2>
-<p>Landing Page para clube de mergulho, baseado no Designer de Samuel Scalzo. O objetivo do desenvolvimento desta página foi apenas para prática do uso de CSS mesmo sem um protótipo base para acompanhamento. Para aproximar o design ainda mais do original, foi utilizado Adobe Photoshop CS adicioando filtros nas imagens e delimitando tamanhos próximos aos do designer.</p>
+<p>Landing Page para clube de mergulho, baseado no Designer de Samuel Scalzo. O objetivo do desenvolvimento desta página foi apenas para prática do uso de CSS em Landing Pages com desgin chamativo e diferente, mesmo sem um protótipo base para acompanhamento. Para aproximar o design ainda mais do original, foi utilizado Adobe Photoshop CS adicioando filtros nas imagens e delimitando tamanhos próximos aos do designer.</p>
 <br>
 <h2>:hammer: Funcionalidades do Projeto</h2>
 <p>Demonstração de página única com textos e imagens inclusas por meio de CSS. Design original: https://dribbble.com/shots/3689813-Underwater-landing-page</p>
