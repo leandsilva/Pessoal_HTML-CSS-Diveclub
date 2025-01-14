@@ -13,8 +13,9 @@ Design original: https://dribbble.com/shots/3689813-Underwater-landing-page</p>
 ![underwater-web-ui-hd](https://github.com/user-attachments/assets/7343e831-4b20-4a5a-a056-ad61543a2949)
 
 <p align="center">Versão adaptada desenvolvida
-  
-![Site](https://github.com/user-attachments/assets/ac4f282d-ef35-4895-be4a-a850badf6b8f)
+
+![24587a4c-5c6d-44a7-8bca-b9824ca9be5b](https://github.com/user-attachments/assets/769dced0-ef4a-4178-b213-4bbf93b95200)
+
 <br>
 <b>Créditos:</b>
 - Design: [Samuel Scalzo](https://dribbble.com/scalzodesign)
